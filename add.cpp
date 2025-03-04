@@ -18,7 +18,7 @@ int div_d(int a, int b)
 }
 int main()
 {
-	std::cout<<"Hello World!"<<std::endl;
+	std::cout<<"Hello World!-->"<<std::endl;
 	cout<<"result: " << add(10,20)<<endl;
 	cout<<"result: " << sub(10,20)<<endl;
 	cout<<"result: " << mul(10,20)<<endl;
